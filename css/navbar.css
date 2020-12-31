@@ -1,0 +1,21 @@
+.navbar {
+    background: transparent;
+    padding: 10px;
+    font-family: 'Roboto', sans-serif;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0;          /* Position the navbar at the top of the page */
+    width: 100%
+}
+
+#button {
+    padding: 1em;
+    border-radius: 10%;
+    background-color: orange;
+    color: white;
+}
+
+#button2 {
+    padding: 1em;
+    border-radius: 10%;
+    color: orange;
+}

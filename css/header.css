@@ -1,0 +1,20 @@
+.jumbotron {
+    background: url("../assets/purpleback.jpg") center top;
+    background-size: cover;
+    height: 130vh;
+    color: white;
+}
+
+#image {
+    padding-top: 5em;
+    padding-left: 20em;
+    width: 60em;
+    padding-bottom: 1em;
+}
+
+#images {
+    padding-top: 5em;
+    padding-left: 11em;
+    width: 60em;
+    padding-bottom: 1em;
+}

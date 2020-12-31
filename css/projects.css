@@ -1,0 +1,7 @@
+#projects {
+    background-color: var(--grey);
+    padding: 50px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    color: #595959;
+}
